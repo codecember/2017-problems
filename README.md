@@ -14,3 +14,4 @@ You can use the team code below if you forgot yours
 
 * `JudgesDataSets` Include all datasets used to judge each program
 * `ProblemInstructions` Include the source markdown files for each problem
+* `Solutions` Java solutions to problems
